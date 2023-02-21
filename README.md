@@ -4,3 +4,6 @@
 
 solution: solutions/1480.md
 
+724. Find Pivot Index
+
+solution: solutions/724.md
